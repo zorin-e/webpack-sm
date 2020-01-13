@@ -9,7 +9,7 @@
     "build": "NODE_ENV=production webpack"
   },
   "keywords": ["webpack", "js", "boilerplate"],
-  "author": "",
+  "author": "zorin-e",
   "license": "ISC",
   "devDependencies": {
     "clean-webpack-plugin": "^3.0.0",
