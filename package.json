@@ -1,7 +1,7 @@
 {
   "name": "webpack-sm",
   "version": "1.0.0",
-  "description": "Webpack simple spa boilerplate with css modules and dev server",
+  "description": "Webpack simple boilerplate with css modules and dev server",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
